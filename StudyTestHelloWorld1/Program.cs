@@ -1,4 +1,1 @@
-﻿void myMethod()
-{
-    Console.WriteLine("Now I have a method!");
-    }
+﻿Console.WriteLine("Hello, C# Academy! One more modification!");
